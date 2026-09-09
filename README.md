@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Science and Data Analysis<br>👯 I’m looking to collaborate on Open Source<br>🤝 I’m looking for help with Building in Machine Learning and Artificial Intelligence<br>🌱 I’m currently learning Web development Frameworks<br>💬 Ask me about My hobbies and Extracurricular Activities
 
+### ✍️ Latest Articles & Blog Posts
+- [There is an odd sort of guilt that accompanies starting a Master’s degree](https://shivamshuroy.medium.com/there-is-an-odd-sort-of-guilt-that-accompanies-starting-a-masters-degree-429dc7a6bf80) — *How a daily 15-minute GitHub habit changed the way I learn.*
+- [I Got Tired of Paying for Chess Subscriptions, So I Built My Own Browser Engine]([https://shivamshuroy.medium.com/...](https://shivamshuroy.medium.com/i-got-tired-of-paying-for-chess-subscriptions-so-i-built-my-own-browser-engine-923a23a7cc03)) — *Building CheckmateLab with Stockfish 16 NNUE.*
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivamshuroy/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shivamshuroy) 
