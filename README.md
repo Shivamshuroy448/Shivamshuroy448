@@ -3,7 +3,7 @@
 
 ### ✍️ Latest Articles & Blog Posts
 - [There is an odd sort of guilt that accompanies starting a Master’s degree](https://shivamshuroy.medium.com/there-is-an-odd-sort-of-guilt-that-accompanies-starting-a-masters-degree-429dc7a6bf80) — *How a daily 15-minute GitHub habit changed the way I learn.*
-- [I Got Tired of Paying for Chess Subscriptions, So I Built My Own Browser Engine]([https://shivamshuroy.medium.com/...](https://shivamshuroy.medium.com/i-got-tired-of-paying-for-chess-subscriptions-so-i-built-my-own-browser-engine-923a23a7cc03)) — *Building CheckmateLab with Stockfish 16 NNUE.*
+- [I Got Tired of Paying for Chess Subscriptions, So I Built My Own Browser Engine](https://shivamshuroy.medium.com/i-got-tired-of-paying-for-chess-subscriptions-so-i-built-my-own-browser-engine-923a23a7cc03)) — *Building CheckmateLab with Stockfish 16 NNUE.*
 
 
 ## 🌐 Socials:
