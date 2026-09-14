@@ -14,10 +14,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamshuroy448&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://streak-stats.demolab.com/?user=Shivamshuroy448&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shivamshuroy448&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Shivamshuroy448&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="175" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamshuroy448&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivamshuroy448&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
 </p>
 
