@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" width="100%" height="260" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a10" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(56, 189, 248, 0.4)" />
+      <stop offset="50%" stop-color="rgba(129, 140, 248, 0.2)" />
+      <stop offset="100%" stop-color="rgba(192, 132, 252, 0.4)" />
+    </linearGradient>
+
+    <!-- Radial Glow Behind Text -->
+    <radialGradient id="glow" cx="40%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="rgba(56, 189, 248, 0.15)" />
+      <stop offset="60%" stop-color="rgba(129, 140, 248, 0.05)" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <style>
+    .code-text {
+      font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Menlo, Consolas, monospace;
+      font-size: 13.5px;
+      line-height: 22px;
+    }
+    .kwd { fill: #f43f5e; font-weight: 600; }
+    .prop { fill: #38bdf8; }
+    .str { fill: #34d399; }
+    .punc { fill: #94a3b8; }
+    .val { fill: #fbbf24; }
+    .name-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      letter-spacing: -0.5px;
+    }
+    .badge-label {
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #38bdf8;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect x="6" y="6" width="908" height="248" rx="16" fill="url(#bgGradient)" stroke="url(#borderGrad)" stroke-width="1.5" filter="url(#shadow)" />
+  <rect x="6" y="6" width="908" height="248" rx="16" fill="url(#glow)" />
+
+  <!-- Top Terminal Bar -->
+  <rect x="6" y="6" width="908" height="38" rx="16" fill="rgba(255, 255, 255, 0.02)" />
+  <path d="M 6 44 L 914 44" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
+  
+  <!-- Traffic Light Window Controls -->
+  <circle cx="28" cy="25" r="5.5" fill="#ff5f56" />
+  <circle cx="46" cy="25" r="5.5" fill="#ffbd2e" />
+  <circle cx="64" cy="25" r="5.5" fill="#27c93f" />
+
+  <!-- Terminal Tab Header -->
+  <text x="460" y="29" text-anchor="middle" fill="#64748b" font-family="'SF Mono', monospace" font-size="12" font-weight="500">
+    shivamshu@portfolio:~ (zsh)
+  </text>
+
+  <!-- Left Side: Hero Name & Subtitle -->
+  <g transform="translate(42, 82)">
+    <!-- Pill Status Tag -->
+    <rect x="0" y="0" width="168" height="24" rx="12" fill="rgba(56, 189, 248, 0.1)" stroke="rgba(56, 189, 248, 0.3)" stroke-width="1" />
+    <circle cx="12" cy="12" r="3.5" fill="#34d399" />
+    <text x="24" y="16" class="badge-label">AVAILABLE FOR WORK</text>
+
+    <!-- Main Name -->
+    <text x="0" y="64" class="name-title" fill="url(#textGrad)">
+      Shivamshu Roy
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="92" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="14.5" font-weight="400">
+      Data Science &amp; Machine Learning Engineer
+    </text>
+
+    <!-- Academic Tag -->
+    <text x="0" y="116" fill="#64748b" font-family="-apple-system, sans-serif" font-size="13">
+      Graduate Student @ University at Buffalo
+    </text>
+
+    <!-- Portfolio URL Button -->
+    <g transform="translate(0, 134)">
+      <rect x="0" y="0" width="230" height="28" rx="6" fill="rgba(129, 140, 248, 0.12)" stroke="rgba(129, 140, 248, 0.35)" stroke-width="1" />
+      <text x="115" y="18" text-anchor="middle" fill="#818cf8" font-family="'SF Mono', monospace" font-size="12" font-weight="600">
+        shivamshuroy.is-a.dev &#8599;
+      </text>
+    </g>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="420" y1="60" x2="420" y2="236" stroke="rgba(255, 255, 255, 0.07)" stroke-width="1" stroke-dasharray="4 4" />
+
+  <!-- Right Side: Terminal Code Card -->
+  <g transform="translate(450, 72)">
+    <rect x="0" y="0" width="426" height="156" rx="10" fill="rgba(15, 23, 42, 0.65)" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+    
+    <text x="20" y="28" class="code-text">
+      <tspan class="kwd">const </tspan><tspan class="prop">engineer </tspan><tspan class="punc">= {</tspan>
+    </text>
+    <text x="36" y="52" class="code-text">
+      <tspan class="prop">focus</tspan><tspan class="punc">: </tspan><tspan class="str">"Applied ML &amp; Intelligent Systems"</tspan><tspan class="punc">,</tspan>
+    </text>
+    <text x="36" y="76" class="code-text">
+      <tspan class="prop">stack</tspan><tspan class="punc">: </tspan><tspan class="punc">[</tspan><tspan class="str">"PyTorch"</tspan><tspan class="punc">, </tspan><tspan class="str">"Python"</tspan><tspan class="punc">, </tspan><tspan class="str">"SQL"</tspan><tspan class="punc">, </tspan><tspan class="str">"C++"</tspan><tspan class="punc">],</tspan>
+    </text>
+    <text x="36" y="100" class="code-text">
+      <tspan class="prop">flagships</tspan><tspan class="punc">: </tspan><tspan class="punc">[</tspan><tspan class="str">"CheckmateLab"</tspan><tspan class="punc">, </tspan><tspan class="str">"DS-Roulette"</tspan><tspan class="punc">],</tspan>
+    </text>
+    <text x="36" y="124" class="code-text">
+      <tspan class="prop">mindset</tspan><tspan class="punc">: </tspan><tspan class="str">"Build daily, verify rigorously"</tspan>
+    </text>
+    <text x="20" y="146" class="code-text">
+      <tspan class="punc">};</tspan>
+    </text>
+  </g>
+</svg>
