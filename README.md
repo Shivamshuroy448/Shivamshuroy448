@@ -50,9 +50,9 @@
 ### Activity & Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Shivamshuroy448&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Shivamshuroy448&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=America/New_York" alt="GitHub Streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shivamshuroy448&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&nocache=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Shivamshuroy448&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=America/New_York&nocache=true" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivamshuroy448&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivamshuroy448&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&nocache=true" alt="Top Languages" height="165" />
 </p>
