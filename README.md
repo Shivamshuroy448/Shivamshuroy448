@@ -112,9 +112,9 @@
 ### Activity & Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Shivamshuroy448&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&nocache=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Shivamshuroy448&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=America/New_York&nocache=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamshuroy448&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivamshuroy448&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&nocache=true" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Shivamshuroy448&background=1a1b27&border=1a1b27&stroke=1a1b27&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=70a5fd&currStreakLabel=bf91f3&sideLabels=94a3b8&dates=64748b&hide_border=true&type=png" alt="GitHub Streak" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamshuroy448&theme=tokyonight" alt="Top Languages by Repo" height="195" />
 </p>
