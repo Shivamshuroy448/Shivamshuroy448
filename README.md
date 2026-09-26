@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shivamshuroy.is-a.dev/" target="_blank">
-    <img src="./banner.png" alt="Shivamshu Roy" width="100%" />
+    <img src="./banner-portfolio.png" alt="Shivamshu Roy" width="100%" />
   </a>
 </p>
 
