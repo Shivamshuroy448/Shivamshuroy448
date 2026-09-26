@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="./banner.png" alt="Shivamshu Roy" width="100%" />
+  <a href="https://shivamshuroy.is-a.dev/" target="_blank">
+    <img src="./banner.png" alt="Shivamshu Roy" width="100%" />
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://shivamshuroy.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shivamshuroy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@shivamshuroy" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://public.tableau.com/app/profile/shivamshu.roy7243/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
   <a href="https://github.com/Shivamshuroy448" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
